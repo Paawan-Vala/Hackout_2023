@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "707775794552",
+    "firebase_url": "https://sylvan-rampart-396818-default-rtdb.firebaseio.com",
+    "project_id": "sylvan-rampart-396818",
+    "storage_bucket": "sylvan-rampart-396818.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707775794552:android:7f91b7e9a39662c41e8c8d",
+        "android_client_info": {
+          "package_name": "com.google.firebase.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707775794552-rddg54v66n2h0ca32mi4m7c8744qnkg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBCQzPbXed54AgE5qWMgKWKigtHQbJ7Ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707775794552-rddg54v66n2h0ca32mi4m7c8744qnkg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
